@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome 
 
-<!--
-**ZerroDevs/ZerroDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Discord](https://discord.c99.nl/widget/theme-1/748318287892578385.png)
 
-Here are some ideas to get you started:
+- ❤ I Like Xml - Lua 
+- 📫 Contact Me in discord : [@Discord](https://discord.com/channels/@me/748318287892578385)
+-  <span style="color: green"> My First Project [SumBot](https://github.com/Vision-Table/VisionTable) </span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Status : 
+
+<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ZerroDevs&count_private=true&show_icons=true&theme=radical">
+
