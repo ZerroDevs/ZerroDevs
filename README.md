@@ -1,6 +1,6 @@
 ### Welcome 
 
-![Discord](https://discord.c99.nl/widget/theme-1/748318287892578385.png)
+![Discord](https://discord.c99.nl/widget/theme-2/748318287892578385.png)
 
 - ❤ I Like Xml - Lua 
 - 📫 Contact Me in discord : [@Discord](https://discord.com/channels/@me/748318287892578385)
