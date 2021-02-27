@@ -4,7 +4,7 @@
 
 - ❤ I Like Xml - Lua 
 - 📫 Contact Me in discord : [@Discord](https://discord.com/channels/@me/748318287892578385)
--  <span style="color: green"> My First Project [SumBot](https://github.com/Vision-Table/VisionTable) </span>
+-  <span style="color: green"> My First Project [VisionTable](https://github.com/Vision-Table/VisionTable) </span>
 
 ---
 
