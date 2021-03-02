@@ -11,6 +11,7 @@
   </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZeroDevs)
+![Stars](https://img.shields.io/github/stars/ZerroDevs)
 
 <br/>
 
