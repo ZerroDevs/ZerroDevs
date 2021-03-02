@@ -10,5 +10,6 @@
 
 ### Status : 
 
-<img align="left" alt="ChickenDevs' Stats" src="https://github-readme-stats.vercel.app/api?username=ZerroDevs&count_private=true&show_icons=true&theme=radical">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ZerroDevs&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ZerroDevs&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerroDevs&theme=tokyonight&hide=batchfile">
 
