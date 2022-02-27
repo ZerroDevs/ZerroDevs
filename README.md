@@ -1,6 +1,5 @@
 ### Welcome 👋
 
-![Discord](https://discord.c99.nl/widget/theme-2/748318287892578385.png)
 
 <br/>
 <a href="https://discord.com/users/748318287892578385">
