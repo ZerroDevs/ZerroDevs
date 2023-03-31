@@ -8,7 +8,7 @@
 <br/>
 
 
-- ❤ I Like Python - Lua - Ahk - XML 
+- ❤ I Like JavaScript - Lua - Ahk - XML 
 - 📫 Contact Me in discord : [@Discord](https://discord.com/channels/@me/748318287892578385)
 -  <span style="color: green"> My Best Project [RecoilMagic](https://github.com/ZerroDevs/RecoilMagic) </span>
 - Profile Vistors Count :
