@@ -12,6 +12,13 @@ A powerful NPM package for Discord bot development
 - ⚡ Simplifies common Discord bot operations
 - 🛠️ Built with Node.js for optimal performance
 
+### [WebhookDeleter](https://github.com/ZerroDevs/WebhookDeleter)
+Express.js web application for Discord webhook management
+- 🔧 Discord webhook deletion system
+- 🔐 Authentication system
+- 📨 Webhook sender functionality
+- ⚡ Built with Express.js for robust performance
+
 ### [AutoRefreshExt](https://github.com/ZerroDevs/AutoRefreshExt)
 Chrome extension for automatic page refreshing
 - 🔄 Customizable refresh intervals
@@ -20,9 +27,11 @@ Chrome extension for automatic page refreshing
 
 ## 💻 Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
