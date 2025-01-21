@@ -10,7 +10,7 @@ A powerful NPM package for Discord bot development
 - 📦 [NPM Package](https://www.npmjs.com/package/@zerrodevs/discord-bot-utils)
 - 📚 [Documentation](https://zerrodevs.github.io/discord-bot-utils/)
 - ⚡ Simplifies common Discord bot operations
-- 🛠️ Built with TypeScript for type safety
+- 🛠️ Built with Node.js for optimal performance
 
 ### [AutoRefreshExt](https://github.com/ZerroDevs/AutoRefreshExt)
 Chrome extension for automatic page refreshing
@@ -40,6 +40,7 @@ Chrome extension for automatic page refreshing
 ## 📫 Connect With Me
 - GitHub: [@ZerroDevs](https://github.com/ZerroDevs)
 - NPM: [@zerrodevs](https://www.npmjs.com/~zerrodevs)
+- Discord: zx.r (ID: 748318287892578385)
 
 ---
 <div align="center">
