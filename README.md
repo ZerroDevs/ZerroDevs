@@ -25,6 +25,23 @@ Chrome extension for automatic page refreshing
 - 🌐 Works on any webpage
 - 💻 Chrome Web Store (Coming Soon)
 
+## 🔍 Language & Project Analysis
+
+### Project Technologies
+[![discord-bot-utils - Node.js](https://img.shields.io/badge/discord--bot--utils-Node.js-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@zerrodevs/discord-bot-utils)
+[![WebhookDeleter - Express.js](https://img.shields.io/badge/WebhookDeleter-Express.js-black?style=for-the-badge&logo=express)](https://github.com/ZerroDevs/WebhookDeleter)
+[![AutoRefreshExt - Chrome](https://img.shields.io/badge/AutoRefreshExt-Chrome-blue?style=for-the-badge&logo=google-chrome)](https://github.com/ZerroDevs/AutoRefreshExt)
+
+### Language Distribution
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerroDevs&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+### Project Activity
+![discord-bot-utils](https://img.shields.io/github/last-commit/ZerroDevs/discord-bot-utils?style=flat-square&label=discord-bot-utils%20updated)
+![WebhookDeleter](https://img.shields.io/github/last-commit/ZerroDevs/WebhookDeleter?style=flat-square&label=WebhookDeleter%20updated)
+![AutoRefreshExt](https://img.shields.io/github/last-commit/ZerroDevs/AutoRefreshExt?style=flat-square&label=AutoRefreshExt%20updated)
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
