@@ -1,74 +1,76 @@
 <div align="center">
-	<h1>👋 Hi, I'm ZerroDevs</h1>
-	<p>A passionate developer focused on creating useful tools and utilities</p>
+  <h1>👋 Hi, I'm ZerroDevs</h1>
+  <p><b>Systems, Web & AI Infrastructure Developer</b> focused on building high-performance, zero-waste local utilities, native tools, and network diagnostics engines.</p>
+
+  <p>
+    <a href="https://github.com/ZerroDevs"><img src="https://img.shields.io/github/followers/ZerroDevs?label=Followers&style=for-the-badge&color=10b981" alt="Followers" /></a>
+    <a href="https://github.com/ZerroDevs/Llama.cpp-runner"><img src="https://img.shields.io/github/stars/ZerroDevs/Llama.cpp-runner?label=Llama%20Control%20Stars&style=for-the-badge&color=0078D7" alt="Llama Server Control Stars" /></a>
+    <a href="https://github.com/ZerroDevs/NetPulse"><img src="https://img.shields.io/github/stars/ZerroDevs/NetPulse?label=NetPulse%20Stars&style=for-the-badge&color=6366f1" alt="NetPulse Stars" /></a>
+  </p>
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
-### [@zerrodevs/discord-bot-utils](https://github.com/ZerroDevs/discord-bot-utils)
-A powerful NPM package for Discord bot development
-- 📦 [NPM Package](https://www.npmjs.com/package/@zerrodevs/discord-bot-utils)
-- 📚 [Documentation](https://zerrodevs.github.io/discord-bot-utils/)
-- ⚡ Simplifies common Discord bot operations
-- 🛠️ Built with Node.js for optimal performance
-
-### [WebhookDeleter](https://github.com/ZerroDevs/WebhookDeleter)
-Express.js web application for Discord webhook management
-- 🔧 Discord webhook deletion system
-- 🔐 Authentication system
-- 📨 Webhook sender functionality
-- ⚡ Built with Express.js for robust performance
-
-### [AutoRefreshExt](https://github.com/ZerroDevs/AutoRefreshExt)
-Chrome extension for automatic page refreshing
-- 🔄 Customizable refresh intervals
-- 🌐 Works on any webpage
-- 💻 Chrome Web Store (Coming Soon)
-
-## 🔍 Language & Project Analysis
-
-### Project Technologies
-[![discord-bot-utils - Node.js](https://img.shields.io/badge/discord--bot--utils-Node.js-green?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/@zerrodevs/discord-bot-utils)
-[![WebhookDeleter - Express.js](https://img.shields.io/badge/WebhookDeleter-Express.js-black?style=for-the-badge&logo=express)](https://github.com/ZerroDevs/WebhookDeleter)
-[![AutoRefreshExt - Chrome](https://img.shields.io/badge/AutoRefreshExt-Chrome-blue?style=for-the-badge&logo=google-chrome)](https://github.com/ZerroDevs/AutoRefreshExt)
-
-### Language Distribution
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerroDevs&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-### Project Activity
-![discord-bot-utils](https://img.shields.io/github/last-commit/ZerroDevs/discord-bot-utils?style=flat-square&label=discord-bot-utils%20updated)
-![WebhookDeleter](https://img.shields.io/github/last-commit/ZerroDevs/WebhookDeleter?style=flat-square&label=WebhookDeleter%20updated)
-![AutoRefreshExt](https://img.shields.io/github/last-commit/ZerroDevs/AutoRefreshExt?style=flat-square&label=AutoRefreshExt%20updated)
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ZerroDevs&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZerroDevs&theme=dark" alt="GitHub Streak" />
-</p>
-
-## 📫 Connect With Me
-- GitHub: [@ZerroDevs](https://github.com/ZerroDevs)
-- NPM: [@zerrodevs](https://www.npmjs.com/~zerrodevs)
-- Discord: zx.r (ID: 748318287892578385)
+### 🦙 [Llama Server Control (Llama.cpp Runner)](https://github.com/ZerroDevs/Llama.cpp-runner)
+> **High-Performance Native Windows Desktop Application & Web Host for Local AI Ecosystems.**
+- **Stack:** C# 13, .NET 10, WPF, Microsoft Edge WebView2, ASP.NET Core Kestrel (`Port 9095`).
+- ⚡ **Zero-Waste Architecture:** Sub-45MB idle memory, zero Python overhead, and instant 0ms window hide.
+- 🧠 **Dual-Engine Orchestration:** Seamlessly swaps VRAM between `llama.cpp` (LLMs) and `SwarmUI` (Stable Diffusion / Flux) with dynamic GPU driver memory drain verification.
+- 💬 **Studio Chat & Autonomous Coding Agent:** Multi-turn ReAct agent tool calling loop (file inspection, surgical edits, terminal commands, headless web scraping with zero-dependency screenshot capture), full token telemetry, and live thinking/reasoning timers.
+- 📦 **Distributable Packaging:** Standalone deployment with clean Inno Setup Windows installer.
 
 ---
+
+### 📡 [NetPulse (Manifest V3 Chrome Extension)](https://github.com/ZerroDevs/NetPulse)
+> **Production-Grade Cellular Router RF Telemetry Monitor & Competitive Gaming Diagnostics Suite.**
+- **Target Gateways:** Zyxel NR5103E, Huawei, ZTE, and private subnets (`192.168.*.*`, `10.*.*.*`, `172.16.*.*`).
+- 📊 **Real-Time RF Telemetry:** Automates credential injection and extracts live 5G/4G radio metrics (RSRP, SINR, RSRQ, RSSI, Band, PCI, Carrier Aggregation).
+- 🎮 **Competitive Gaming Diagnostics:** Live Bufferbloat scoring (Grade A+ to F), Competitive Stability Index (CSI), micro-spike detection, and a 15-second Pre-Match flight check.
+- 🏎️ **Pure JS Speedtest Engine:** 240-degree high-DPI radial canvas speedometer, Anycast multi-stream worker, and ISP peak vs. off-peak hourly audit matrix.
+- 🌍 **Bilingual & Flat UI:** Full native English & Arabic RTL layout support with strict Zero-Gradient and Zero-Emoji design philosophy.
+
+---
+
+### 📦 Other Notable Open-Source Utilities
+- **[@zerrodevs/discord-bot-utils](https://github.com/ZerroDevs/discord-bot-utils)**: Lightweight NPM utility library simplifying complex Discord API bot operations.
+- **[WebhookDeleter](https://github.com/ZerroDevs/WebhookDeleter)**: Fast Express.js authenticated web interface for managing and testing Discord webhooks.
+
+---
+
+## 🛠️ Tech Stack & Architecture
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Desktop & Native** | C# 13, .NET 10 / 8, WPF, Microsoft Edge WebView2, Inno Setup |
+| **Backend & APIs** | ASP.NET Core Kestrel, Node.js, Express.js, RESTful APIs, WebSockets, SSE |
+| **Frontend & Web** | Next.js, React, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, i18n (LTR & Arabic RTL) |
+| **AI & Local Workflows** | `llama.cpp`, GGUF Quants, Speculative Decoding, KV Cache Tuning, SwarmUI, ComfyUI, HuggingFace Hub |
+| **Browsers & Extensions** | Chrome Extensions (Manifest V3), Service Workers, Headless Automation |
+| **Databases & Cloud** | Supabase, Firebase, MongoDB Atlas, Cloudflare Pages & WAF, Vercel |
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-	<i>Happy Coding! 🚀</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZerroDevs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ZerroDevs GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZerroDevs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZerroDevs&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Connect & Collaborate
+
+- **GitHub:** [@ZerroDevs](https://github.com/ZerroDevs)
+- **NPM:** [@zerrodevs](https://www.npmjs.com/~zerrodevs)
+- **Discord:** `zx.r` *(ID: 748318287892578385)*
+
+<div align="center">
+  <sub>Engineered with precision for maximum performance and minimum footprint. 🚀</sub>
 </div>
