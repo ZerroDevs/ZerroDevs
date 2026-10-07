@@ -39,17 +39,15 @@
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## 🛠️ Technologies & Tools I Work With
 
-| Domain | Technologies & Frameworks |
+| Domain | Technologies & Tools |
 | :--- | :--- |
-| **Desktop & Native** | C# 13, .NET 10 / 8, WPF, Microsoft Edge WebView2, Inno Setup |
-| **Backend & APIs** | ASP.NET Core Kestrel, Node.js, Express.js, RESTful APIs, WebSockets, SSE |
-| **Frontend & Web** | Next.js, React, TypeScript, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, i18n (LTR & Arabic RTL) |
-| **AI & Local Workflows** | `llama.cpp`, GGUF Quants, Speculative Decoding, KV Cache Tuning, SwarmUI, ComfyUI, HuggingFace Hub |
-| **Browsers & Extensions** | Chrome Extensions (Manifest V3), Service Workers, Headless Automation |
-| **Databases & Cloud** | Supabase, Firebase, MongoDB Atlas, Cloudflare Pages & WAF, Vercel |
-
+| **Desktop Apps** | C# (.NET), WPF, WebView2, Inno Setup |
+| **Backend & Web** | JavaScript / TypeScript, Node.js, Next.js, Tailwind CSS, REST APIs |
+| **Local AI & Workflows** | llama.cpp, GGUF Models, SwarmUI, ComfyUI, HuggingFace |
+| **Extensions & Automation** | Chrome Extensions (Manifest V3), Service Workers |
+| **Databases & Cloud** | Supabase, Firebase, Cloudflare, Vercel, Git/GitHub |
 ---
 
 ## 📊 GitHub Analytics
